@@ -15,6 +15,7 @@ void setup()
 {
   fullScreen();
   population();
+  textSetup();
 }//End Setup()
 
 void draw() 
