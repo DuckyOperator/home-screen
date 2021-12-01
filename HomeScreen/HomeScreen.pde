@@ -6,6 +6,7 @@ float ptX1, ptX2, ptX3, ptX4, ptX5, ptX6, ptX7, ptX8, ptX9;
 float ptY1, ptY2, ptY3, ptY4, ptY5, ptY6, ptY7, ptY8, ptY9;
 float buttonX1, buttonY1, buttonWidth1, buttonHeight1;
 float buttonX2, buttonY2, buttonWidth2, buttonHeight2;
+float buttonX3, buttonY3, buttonWidth3, buttonHeight3;
 float rectDisplayX, rectDisplayY, rectDisplayWidth, rectDisplayHeight;
 float circleX, circleY, circleWidth, circleHeight;
 boolean rect=false, circle=false;
