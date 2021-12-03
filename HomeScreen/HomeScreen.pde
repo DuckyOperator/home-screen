@@ -43,6 +43,7 @@ void draw()
   fill(white);
 
   textDraw1(); //click me
+  rect(buttonX1, buttonY1, buttonWidth1, buttonHeight1);
   rect(buttonX2, buttonY2, buttonWidth2, buttonHeight2);
   textDraw2(); //maybe me
   if ( rect==true ) rect(rectDisplayX, rectDisplayY, rectDisplayWidth, rectDisplayHeight);

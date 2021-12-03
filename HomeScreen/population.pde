@@ -21,18 +21,20 @@ void population()
 
   rectWidth = width*1/3;
   rectHeight = height*1/3;
-  circleDiameter = width*1/70;
+  circleDiameter = width*1/60;
 
-  buttonX1= displayWidth* 1/4;
-  buttonY2= displayHeight* 3/4;
-  buttonWidth1= displayWidth* 1/5;
-  buttonHeight1= displayHeight* 1/5;
-  buttonX2= displayWidth*3/4;
-  ;
-  buttonY2= displayHeight*3/4;
-  ;
-  buttonWidth2= buttonWidth1;
-  buttonHeight2= buttonHeight1;
+  buttonX1 = displayWidth*1/4;
+  buttonY1 = displayHeight*3/4;
+  buttonWidth1 = displayWidth*1/5;
+  buttonHeight1 = displayHeight*1/5;
+  buttonX2 = displayWidth*3/4;;
+  buttonY2 = displayHeight*3/4;;
+  buttonWidth2 = buttonWidth1;
+  buttonHeight2 = buttonHeight1;
+  buttonX3 = displayWidth*1/3;
+  buttonY3 = displayHeight*1/4;
+  buttonHeight3 = displayHeight*1/3;
+  buttonWidth3 = displayWidth*1/3; 
   rectDisplayX= displayWidth* 1/8;
   rectDisplayY= displayHeight* 1/8;
   rectDisplayWidth= buttonWidth1;
